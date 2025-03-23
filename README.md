@@ -1,6 +1,5 @@
-## Olá 👋
+## Olá, Sou Heury 👋
 
-Olá, sou Heury. <br>
 Trabalhei por vários anos como Gestor de Ensino a Distância e Contador, mas sempre
 me interessei pela área de Tecnologia, em especial Programação de Sistemas e Ambientes Virtuais.
 
