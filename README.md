@@ -7,13 +7,17 @@ Atualmente, estou estudando e trabalhando como Analista de Dados.
 
 Em meus projetos, desenvolvi habilidades em Python, Bibliotecas Python para Coleta e Armazenamento de dados (SQL), Análise Estatística de Dados, Análise de Negócio.
 
-**Principais Ferramentas que utilizo:**
-VSCODE, Jupyter Notebook, Google Colab, Excel, Github. 
+**Principais Ferramentas que utilizo:**<br>
+VSCODE<br>
+Jupyter Notebook<br>
+Google Colab<br>
+Excel<br>
+Github
 
-No que estou aprofundando meu conhecimento atualmente:
-Ferramentas de Desenvolvimento de Software
-Automação
-Machine Learning
+No que estou aprofundando meu conhecimento atualmente:<br>
+Ferramentas de Desenvolvimento de Software<br>
+Automação<br>
+Machine Learning<br>
 
 "Na análise de dados, a única coisa que mente mais que a média... 
 é a média sem o desvio padrão!" 😄
