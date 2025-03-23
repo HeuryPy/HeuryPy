@@ -1,6 +1,7 @@
 ## Olá 👋
 
-Olá, sou Heury. Trabalhei por vários anos como Gestor de Ensino a Distância e Contador e sempre
+Olá, sou Heury. 
+Trabalhei por vários anos como Gestor de Ensino a Distância e Contador, mas sempre
 me interessei pela área de Tecnologia, em especial Programação de Sistemas e Ambientes Virtuais.
 
 Atualmente, estou estudando e trabalhando como Analista de Dados.
