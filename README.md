@@ -24,6 +24,9 @@ Machine Learning<br>
 "Na análise de dados, a única coisa que mente mais que a média... 
 é a média sem o desvio padrão!" 😄
 
+**MEUS CERTIFICADOS**
+![ANALISTA DE DADOS ASPIRANTE](imagens/analista_aspirante.png)
+![CAMPEAO SQL](imagens/campeao_sql.png)
 
 **Entre em contato comigo aqui**: 
 https://www.linkedin.com/in/heurypy/
