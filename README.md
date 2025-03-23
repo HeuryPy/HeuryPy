@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**HeuryPy/HeuryPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Heury. Trabalhei por vários anos como Gestor de Ensino a Distância e Contador e sempre
+me interessei pela área de Tecnologia, em especial Programação de Sistemas e Ambientes Virtuais.
 
-Here are some ideas to get you started:
+Atualmente, estou estudando e trabalhando como Analista de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em meus projetos, desenvolvi habilidades em Python, Bibliotecas Python para Coleta e Armazenamento de dados (SQL), Análise Estatística de Dados, Análise de Negócio.
+
+**Principais Ferramentas que utilizo:**
+VSCODE, Jupyter Notebook, Google Colab, Excel, Github. 
+
+No que estou aprofundando meu conhecimento atualmente:
+Ferramentas de Desenvolvimento de Software
+Automação
+Machine Learning
+
+"Na análise de dados, a única coisa que mente mais que a média... 
+é a média sem o desvio padrão!" 😄
+
+
+
+**Entre em contato comigo aqui**: 
+https://www.linkedin.com/in/heurypy/
