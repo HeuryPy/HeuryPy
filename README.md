@@ -35,8 +35,8 @@ Machine Learning<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **MEUS CERTIFICADOS**<br>
-![ANALISTA DE DADOS ASPIRANTE](imagens/analista_aspirante_reduzido.png)<br>
-![CAMPEAO SQL](imagens/campeao_sql_reduzido.png)<br>
+![ANALISTA DE DADOS ASPIRANTE](imagens/analista_aspirante_reduzido.png)
+![CAMPEAO SQL](imagens/campeao_sql_reduzido.png)
 ![GENIO DE DASHBOARD](imagens/geniodashboard_reduzido.png) <br>
 
 **Entre em contato comigo aqui**: 
