@@ -38,7 +38,7 @@ Machine Learning<br>
 ![ANALISTA DE DADOS ASPIRANTE](imagens/analista_aspirante_reduzido.png)
 ![CAMPEAO SQL](imagens/campeao_sql_reduzido.png)
 ![GENIO DE DASHBOARD](imagens/geniodashboard_reduzido.png) <br>
-![GENIO DE DASHBOARD](imagens/guru_de_decisoes_reduzido.png) 
+![GENIO DE DASHBOARD](imagens/guru_de_decisoes.png) 
 
 **Entre em contato comigo aqui**: 
 https://www.linkedin.com/in/heurypy/
