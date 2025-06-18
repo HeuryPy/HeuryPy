@@ -36,8 +36,8 @@ Machine Learning<br>
 
 **MEUS CERTIFICADOS**
 ![ANALISTA DE DADOS ASPIRANTE](imagens/analista_aspirante_reduzido.png)
-![CAMPEAO SQL](imagens/campeao_sql.png)
-![GENIO DE DASHBOARD](imagens/geniodashboard.png) 
+![CAMPEAO SQL](imagens/campeao_sql_reduzido.png)
+![GENIO DE DASHBOARD](imagens/geniodashboard_reduzido.png) 
 
 **Entre em contato comigo aqui**: 
 https://www.linkedin.com/in/heurypy/
