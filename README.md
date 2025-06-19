@@ -6,7 +6,7 @@ me interessei pela área de Tecnologia, em especial Programação de Sistemas e 
 Atualmente, participei de um Boot Camp em Análise de Dados pela Tripleten. <br>
 Este curso, que é uma jornada integrativa, possui foco em Python e suas principais bibliotecas, voltadas para a extração, tratamento, apresentação e análise de dados.<br>
 Aborda, além das habilidades técnicas necessárias, também a compreensão de negócios, tomada de decisões e comunicação assertiva.<br>
-Além do curso, busquei aperfeiçoamento em algoritmos, Python, Power BI, DAX, SQL Server.
+Além do curso, busquei aperfeiçoamento em algoritmos, HTML, CSS, Python, Power BI, DAX, SQL Server.
 
 Em meus projetos, desenvolvi habilidades em Python, Bibliotecas Python para Coleta e Armazenamento de dados (SQL), Análise Estatística de Dados, Análise de Negócio.
 
