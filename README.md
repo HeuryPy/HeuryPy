@@ -1,12 +1,37 @@
+## Hi, I´m Heury.
+I am a Junior Data Analyst (for now), Accountant, and Teacher with several years of experience in Distance Education.<br>
+Today, I apply my analytical and business perspective to transform data into insights that support strategic decision-making.<br>
+
+Throughout my professional journey, I have always had a strong interest in Technology, especially programming, automation, and digital environments.<br>
+This interest naturally evolved into Data Analysis, a field in which I have been specializing.<br>
+
+In my projects, I have developed skills in Python, Python libraries for data collection and storage (SQL), Statistical Data Analysis, and Business Analysis.<br>
+
+**🛠️Main Tools I Use:**<br>
+VSCODE<br>
+Jupyter Notebook<br>
+Google Colab<br>
+Excel<br>
+Github<br>
+Tableau<br>
+Power BI
+
+⏳**I am currently deepening my knowledge in:**<br>
+Ferramentas de Desenvolvimento de Software<br>
+Automação<br>
+Machine Learning<br>
+
+"In data analysis, the only thing that lies more than the average…
+is the average without the standard deviation!" 😄
+
+
 ## Olá, Sou Heury 👋
 
-Trabalhei por vários anos como Gestor de Ensino a Distância e Contador, mas sempre
-me interessei pela área de Tecnologia, em especial Programação de Sistemas e Ambientes Virtuais.
+Sou Analista de Dados Júnior (por enquanto), Contador e Professor com experiência de vários anos com Ensino a Distância.<br>
+Hoje, aplico minha visão analítica e de negócios para transformar dados em insights que apoiam decisões estratégicas.<br>
 
-Atualmente, participei de um Boot Camp em Análise de Dados pela Tripleten. <br>
-Este curso, que é uma jornada integrativa, possui foco em Python e suas principais bibliotecas, voltadas para a extração, tratamento, apresentação e análise de dados.<br>
-Aborda, além das habilidades técnicas necessárias, também a compreensão de negócios, tomada de decisões e comunicação assertiva.<br>
-Além do curso, busquei aperfeiçoamento em algoritmos, HTML, CSS, Python, Power BI, DAX, SQL Server.
+Durante minha trajetória profissional, sempre tive forte interesse por Tecnologia, especialmente por programação, automação e ambientes digitais.<br>
+Esse interesse evoluiu naturalmente para a Análise de Dados, área na qual venho me especializando.<br>
 
 Em meus projetos, desenvolvi habilidades em Python, Bibliotecas Python para Coleta e Armazenamento de dados (SQL), Análise Estatística de Dados, Análise de Negócio.
 
