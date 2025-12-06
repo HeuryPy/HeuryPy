@@ -1,5 +1,5 @@
 ## Hi, I´m Heury.
-I am a Junior Data Analyst (for now), Accountant, and Teacher with several years of experience in Distance Education.<br>
+I am a Junior Data Analyst, Accountant, and Teacher with several years of experience in Distance Education.<br>
 Today, I apply my analytical and business perspective to transform data into insights that support strategic decision-making.<br>
 
 Throughout my professional journey, I have always had a strong interest in Technology, especially programming, automation, and digital environments.<br>
@@ -27,7 +27,7 @@ is the average without the standard deviation!" 😄
 
 ## Olá, Sou Heury 👋
 
-Sou Analista de Dados Júnior (por enquanto), Contador e Professor com experiência de vários anos com Ensino a Distância.<br>
+Sou Analista de Dados Júnior, Contador e Professor com experiência de vários anos com Ensino a Distância.<br>
 Hoje, aplico minha visão analítica e de negócios para transformar dados em insights que apoiam decisões estratégicas.<br>
 
 Durante minha trajetória profissional, sempre tive forte interesse por Tecnologia, especialmente por programação, automação e ambientes digitais.<br>
